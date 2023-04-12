@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LitoDSA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LitoDSA_jar</output-path>
+    <root id="archive" name="LitoDSA.jar">
+      <element id="module-output" name="LitoDSA" />
+    </root>
+  </artifact>
+</component>
